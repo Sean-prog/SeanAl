@@ -1,0 +1,118 @@
+body {
+	background-color: #7ea3b9;
+}
+.col-sm-6 {
+	padding: 10px;
+}
+.col-sm-12 {
+	background-color: #e3f6f5;
+width: 50%;
+height: 525px;
+border-style: solid;
+border-radius: 20px;
+	}
+.pageMovement {
+	margin-top: 25px;
+}
+.givenAns {
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 50px;
+    background-color: #ffe8d6;
+    border: solid;
+}
+.container {
+	padding: 10px;
+    width: 1000px;
+    height: 500px;
+
+}
+.hide {
+	display: none;
+}
+.show {
+	display: block;
+}
+.progress {
+	margin-top: 25px;
+	margin-left: 3px;
+	margin-right: auto;
+	position: relative;
+	top: -170px;
+  width: 960px;
+}
+#endGame {
+	margin: 25px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: 60px;
+	width: 320px;
+	border: solid;
+	margin-top: -110px;
+}
+.output {
+	font-size:40px;
+}
+.glyphicon-ok-circle{
+	color:#00FF64;
+}
+.glyphicon-remove-circle{
+	color:#FF0004;
+}
+.optSelect {
+	background: #4a47a3;
+	border-radius: 200px;
+}
+h1 {
+	text-align: center;
+
+}
+h2 {
+	text-align: center;
+
+}
+#btnexit {
+	margin: 25px;
+border-radius: 10px;
+margin-left: 50;
+margin-right: auto;
+border: solid;
+width: 345px;
+height: 40px;
+position: relative;
+top: -30px;
+}
+#bnext {
+	margin: 25px;
+	border-radius: 10px;
+	border: solid;
+	top: -45px;
+	margin-right: 60px;
+}
+#bnpre {
+	margin: 25px;
+	border-radius: 10px;
+	border: solid;
+	top: -45px;
+}
+#newImg {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	border-radius: 60px;
+	object-fit: cover;
+  width: 500px;
+  height: 500px;
+	position: relative;
+  top: -30px;
+}
+.output {
+	text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
